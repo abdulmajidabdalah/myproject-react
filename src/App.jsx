@@ -3,7 +3,6 @@ import Header from "./components/header/header";
 import Nav from "./components/nav/nav";
 import About from "./components/about/about";
 import Skills from "./components/skills/skills";
-import Services from "./components/services/services";
 import Portfolio from "./components/portfolio/portfolio";
 import Certificate from "./components/certificate/certificate";
 import Contact from "./components/contact/contact";
@@ -16,7 +15,6 @@ const App = () => {
       <Nav />
       <About />
       <Skills />
-      {/* <Services /> */}
       <Portfolio />
       <Certificate />
       <Contact />

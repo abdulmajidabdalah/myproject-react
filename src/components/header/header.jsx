@@ -10,7 +10,7 @@ import TypeAnimation from 'react-type-animation';
 
 const header = () => {
   return (
-    <header>
+    <header id="header">
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h2>Abdul Majid Abdalah</h2>

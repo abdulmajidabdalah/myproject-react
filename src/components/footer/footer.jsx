@@ -7,10 +7,10 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">Abdul Majid Abdalah</a>
+      <a href="#header" className="footer__logo">Abdul Majid Abdalah</a>
 
       <ul className="permalinks">
-        <li><a href="#">Home</a></li>
+        <li><a href="#header">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
         {/* <li><a href="#services">Services</a></li> */}
@@ -20,9 +20,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://web.facebook.com/abdul.m.abdalah" target="_blank"><FaFacebookF/></a>
-        <a href="https://www.instagram.com/abdulmajidabdalah_/" target="_blank"><FiInstagram/></a>
-        <a href="https://twitter.com/abdulmajida27" target="_blank"><IoLogoTwitter/></a>
+        <a href="https://web.facebook.com/abdul.m.abdalah" target="_blank" rel="noreferrer"><FaFacebookF/></a>
+        <a href="https://www.instagram.com/abdulmajidabdalah_/" target="_blank" rel="noreferrer"><FiInstagram/></a>
+        <a href="https://twitter.com/abdulmajida27" target="_blank" rel="noreferrer"><IoLogoTwitter/></a>
       </div>
 
       <div className="footer__copyright">

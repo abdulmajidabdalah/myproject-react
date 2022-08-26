@@ -20,10 +20,10 @@ const portfolio = () => {
           </div>
           <h3>This is my dummy website using HTML, CSS, Bootstrap</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="https://abdulmajidabdalah.github.io/" className="btn btn-primary" target="_blank">
+            <a href="https://abdulmajidabdalah.github.io/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -34,10 +34,10 @@ const portfolio = () => {
           </div>
           <h3>This is real website using HTML, CSS, Bootstrap</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="http://bit.ly/3HDcYOB" className="btn btn-primary" target="_blank">
+            <a href="http://bit.ly/3HDcYOB" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -48,10 +48,10 @@ const portfolio = () => {
           </div>
           <h3>This is my dummy website using HTML, CSS, Materialize</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="https://abdulmajidabdalah.github.io/mybio/" className="btn btn-primary" target="_blank">
+            <a href="https://abdulmajidabdalah.github.io/mybio/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -62,10 +62,10 @@ const portfolio = () => {
           </div>
           <h3>This is my dummy website using HTML, CSS, Javascript</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="https://abdulmajidabdalah.github.io/fbkw/" className="btn btn-primary" target="_blank">
+            <a href="https://abdulmajidabdalah.github.io/fbkw/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -76,10 +76,10 @@ const portfolio = () => {
           </div>
           <h3>This is a Calculator Website Using HTML CSS and Javascript</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="https://abdulmajidabdalah.github.io/calculator/" className="btn btn-primary" target="_blank">
+            <a href="https://abdulmajidabdalah.github.io/calculator/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>
@@ -90,10 +90,10 @@ const portfolio = () => {
           </div>
           <h3>This is a portfolio Website using Framework Bootstrap</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank">
+            <a href="https://github.com/abdulmajidabdalah" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="https://abdulmajidabdalah.github.io/portofolio/" className="btn btn-primary" target="_blank">
+            <a href="https://abdulmajidabdalah.github.io/portofolio/" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>

@@ -6,6 +6,7 @@ import SK3 from "../../assets/sk3.jpg";
 import SK4 from "../../assets/sk4.jpg";
 import SK5 from "../../assets/sk5.jpg";
 import SK6 from "../../assets/sk6.jpg";
+import SK7 from "../../assets/sk7.jpg";
 import { Fade } from "react-awesome-reveal"
 
 // import Swiper core and required modules
@@ -58,6 +59,11 @@ const testimonial = () => {
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
             <img src={SK6} alt="Avatar satu" />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide className="testimonial">
+          <div className="client__avatar">
+            <img src={SK7} alt="Avatar satu" />
           </div>
         </SwiperSlide>
       </Swiper>
